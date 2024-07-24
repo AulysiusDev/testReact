@@ -10,6 +10,7 @@ Requirements:
 - Sort the data into an array of names ordered ascending alphabetically.
 - Render a list of these names to display on screen.
 - Implement error handling by displaying the message to the user "There was an error" in the case of an error.
+- Pass the list of people to modal as a prop.
 
 - Bonus task:
 
